@@ -34,14 +34,14 @@
   },
   "peerDependencies": {
     "@regions-of-indonesia/client": "5.2.0",
-    "@tanstack/svelte-query": "5.0.0-beta.15"
+    "@tanstack/svelte-query": "5.0.0-beta.23"
   },
   "devDependencies": {
     "@regions-of-indonesia/client": "5.2.0",
     "@regions-of-indonesia/types": "5.1.0",
     "@regions-of-indonesia/utils": "^5.1.0",
     "@sveltejs/vite-plugin-svelte": "^2.4.5",
-    "@tanstack/svelte-query": "5.0.0-beta.15",
+    "@tanstack/svelte-query": "5.0.0-beta.23",
     "@testing-library/svelte": "^4.0.3",
     "@vitest/ui": "^0.34.4",
     "jsdom": "^22.1.0",

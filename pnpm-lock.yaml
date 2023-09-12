@@ -14,8 +14,8 @@ devDependencies:
     specifier: ^2.4.5
     version: 2.4.5(svelte@4.2.0)(vite@4.4.9)
   '@tanstack/svelte-query':
-    specifier: 5.0.0-beta.15
-    version: 5.0.0-beta.15(svelte@4.2.0)
+    specifier: 5.0.0-beta.23
+    version: 5.0.0-beta.23(svelte@4.2.0)
   '@testing-library/svelte':
     specifier: ^4.0.3
     version: 4.0.3(svelte@4.2.0)
@@ -695,16 +695,16 @@ packages:
       defer-to-connect: 2.0.1
     dev: true
 
-  /@tanstack/query-core@5.0.0-beta.15:
-    resolution: {integrity: sha512-NaL5qp1K5IhnDD5wEegYpXB0OMPsb+QZNcGR5hWQaDS+30Ga8+zKpfjDn7wHlCKPO2mHCTRqUbQnLWIlt5FKoQ==}
+  /@tanstack/query-core@5.0.0-beta.23:
+    resolution: {integrity: sha512-Qp+U4EltOl7y8VZIhxy4eZR5xFnXll28Urp28e6ag10D69yYKRApS2O+ufcVCxOcm1GFv4rpp19gYrpoqHeWgA==}
     dev: true
 
-  /@tanstack/svelte-query@5.0.0-beta.15(svelte@4.2.0):
-    resolution: {integrity: sha512-mCZHb9wwwC8q/5RIDfRqxGVbKUHAKIQPZ47QIAQadV/vIP69AET/FE+lviawa3GDsgyvMjxvffWSOOrxE1PLmw==}
+  /@tanstack/svelte-query@5.0.0-beta.23(svelte@4.2.0):
+    resolution: {integrity: sha512-U02swaStUUWmzgtcNMhU+Mfq+twgLpwZdYp1Nkrzpgsj5sqFk7Q0/O0a61nIgrDvtMr7+xoHSRaqPZokPRameg==}
     peerDependencies:
       svelte: '>=3 <5'
     dependencies:
-      '@tanstack/query-core': 5.0.0-beta.15
+      '@tanstack/query-core': 5.0.0-beta.23
       svelte: 4.2.0
     dev: true
 
