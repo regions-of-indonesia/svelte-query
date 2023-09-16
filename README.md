@@ -37,3 +37,5 @@
 ## License
 
 [GPL-3.0](https://github.com/regions-of-indonesia/svelte-query/blob/main/LICENSE)
+
+<img width="100%" src="https://hiiiits.deno.dev/hit/regions-of-indonesia/svelte-query" alt="hiiiits" title="hiiiits" />
